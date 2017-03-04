@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <B1 value="">1</B1>
+  <B2 value="">2</B2>
+  <B3 value="">1</B3>
+
+  <C1 value="">1</C1>
+  <C2 value="">1</C2>
+  <C3 value="">5</C3>
+  <C4 value="">1</C4>
+  <C5 value="">1</C5>
+
+  <D1 value="">1</D1>
+  <D2 value="">1</D2>
+  <D3 value="">3</D3>
+  <D4 value="">1</D4>
+  <D5 value="">1</D5>
+  <D6 value="">1</D6>
+  <D7 value="">1</D7>
+  <D8 value="">1</D8>
+  <D9 value="">1</D9>
+  <D10 value="">1</D10>
+  <b12>3</b12>
+  <b13>3</b13>
+  <b23>3</b23>
+  <c12>3</c12>
+  <c13>3</c13>
+  <c23>3</c23>
+  <d12>3</d12>
+  <d13>3</d13>
+  <d23>3</d23>
+  <d45>3</d45>
+  <d46>3</d46>
+  <d56>3</d56>
+  <c45>3</c45>
+  <d78>3</d78>
+
+
+</root>

@@ -1,0 +1,542 @@
+F:\VS PROJECT\work\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+F:\VS PROJECT\work\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+F:\VS PROJECT\work\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+F:\VS PROJECT\work\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+F:\VS PROJECT\work\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+F:\VS PROJECT\work\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\Interop.SldWorks.dll
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\Interop.SwConst.dll
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.ResolveComReference.cache
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DangerousAlarm.resources
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssessResult.resources
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch111.resources
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MeasuredData.resources
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+F:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\Interop.SldWorks.dll
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\Interop.SwConst.dll
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.ResolveComReference.cache
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DangerousAlarm.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch111.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MeasuredData.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess111.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssessResult.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\VS PROJECT\8-28 20：00\SharpGLWinformsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\VS PROJECT\work\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.ResolveComReference.cache
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DangerousAlarm.resources
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch111.resources
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MeasuredData.resources
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssessResult.resources
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+I:\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DangerousAlarm.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch111.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MeasuredData.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssessResult.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Administrator\Desktop\VS PROJECT\work\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DangerousAlarm.resources
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch111.resources
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MeasuredData.resources
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssessResult.resources
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+C:\Users\Administrator\Desktop\work\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DangerousAlarm.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch111.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MeasuredData.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssessResult.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+C:\Users\Administrator\Desktop\VS PROJECT\work1\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DangerousAlarm.resources
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch111.resources
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MeasuredData.resources
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssessResult.resources
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+C:\Users\Administrator\Desktop\work1\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DangerousAlarm.resources
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch111.resources
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MeasuredData.resources
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssessResult.resources
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+C:\Users\Administrator\Desktop\work2\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DangerousAlarm.resources
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch111.resources
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MeasuredData.resources
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssessResult.resources
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+C:\Users\Administrator\Desktop\work5 - 副本\work2\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DangerousAlarm.resources
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch111.resources
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MeasuredData.resources
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssessResult.resources
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+C:\Users\Administrator\Desktop\work改\work改\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DangerousAlarm.resources
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch111.resources
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MeasuredData.resources
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssessResult.resources
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+C:\Users\Administrator\Desktop\work改改\work改\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DangerousAlarm.resources
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch111.resources
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MeasuredData.resources
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+C:\Users\Administrator\Desktop\work改\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\work001\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DangerousAlarm.resources
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch111.resources
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MeasuredData.resources
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+C:\Users\Administrator\Desktop\work002\work001\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Administrator\Desktop\work003\work001\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+C:\Users\Administrator\Desktop\改\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+C:\Users\Administrator\Desktop\改\改\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+C:\Users\Administrator\Desktop\改1\改\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataAdd.resources
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FlawAssess.resources
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.IndexLimitValue.resources
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.DataRearch.resources
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.RealTimeMonitoring.resources
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssess.resources
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.SharpGLForm.resources
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MainPage.resources
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+E:\program\测评\改 - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.MyMainPage.resources
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\CSkin.dll
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.dll
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\CSkin.xml
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.xml
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.adddata.resources
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.historyData.resources
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.KuoZhanSuLv.resources
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Liewenpinggu.resources
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.N_LiShuDu.resources
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.realiable.resources
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Main_Form.resources
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.LiShuHanShu.resources
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Register.resources
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+E:\program\测评\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.CanshuTU.resources
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.dll
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\CSkin.xml
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.xml
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.adddata.resources
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.CanshuTU.resources
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FileFormat.resources
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.historyData.resources
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.KuoZhanSuLv.resources
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Liewenpinggu.resources
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.N_LiShuDu.resources
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.realiable.resources
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Main_Form.resources
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.LiShuHanShu.resources
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Register.resources
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+C:\Users\Administrator\Desktop\改 - 副本2 - 副本 (2)\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\bin\Debug\CSkin.dll
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.dll
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\bin\Debug\CSkin.xml
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.xml
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csprojResolveAssemblyReference.cache
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.adddata.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.CanshuTU.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.FileFormat.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.historyData.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.history_data_MDI_child.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.history_data_series.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.KuoZhanSuLv.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Liewenpinggu.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.N_LiShuDu.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.realiable.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Main_Form.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.JudgmentMatrix.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.LiShuHanShu.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.AssessSoftware.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Register.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache

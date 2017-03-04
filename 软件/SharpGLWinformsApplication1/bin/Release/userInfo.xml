@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<userInfo>
+  <user ID="0">
+		<user_name>12</user_name>
+		<password>12 </password>
+  </user>
+    <user ID="0">
+		<user_name>13</user_name>
+		<password>12 </password>
+  </user>
+    <user ID="0">
+		<user_name>14</user_name>
+		<password>12 </password>
+  </user>
+</userInfo>
