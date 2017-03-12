@@ -23,13 +23,13 @@ namespace SharpGLWinformsApplication1
         {
             
         }
-        public void add_aChild( Double[][] series,
-         int Pub_cedian,String[]X)
+        public void add_aChild( List<List<Double>> Ser,
+         int Pub_cedian,List<List<String>> X_all,bool[]check_box)
         {
             history_data_MDI_child h1 = new history_data_MDI_child();
             h1.MdiParent = this;
             h1.Show();
-            h1.fill(series, Pub_cedian,X);
+            h1.fill(Ser, Pub_cedian,X_all,check_box);
         }
 
         private void toolStripLabel1_Click(object sender, EventArgs e)

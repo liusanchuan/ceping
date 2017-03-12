@@ -12,13 +12,21 @@ using System.Data.OleDb;
 using System.Windows.Documents;
 
 
+
 namespace SharpGLWinformsApplication1
 {
     public partial class historyData : UserControl
     {
-        public Double[][] series = new Double[4][];
+        List<Double>series;
+        List<List<Double>> Ser=new List<List<Double>>();
+        List<String> X;
+        List<List<String>> X_all=new List<List<string>>();
         public int Pub_cedian =1;
-        public String[] X;
+        bool[] check_box = new bool[4]{ true,
+                                    true,
+                                    true,
+                                    true};
+        
         public historyData()
         {
             InitializeComponent();
@@ -88,7 +96,7 @@ namespace SharpGLWinformsApplication1
                 // 创建一个数据集对象并填充数据，然后将数据显示在DataGrid控件中
                 da.Fill(ds);
                 dataGridView1.DataSource = ds.Tables[0].DefaultView;
-                dataGridView1.Sort(dataGridView1.Columns[1], ListSortDirection.Descending);
+                dataGridView1.Sort(dataGridView1.Columns[1], ListSortDirection.Ascending);
 
 
                     for (int Bui = 0; Bui < dataGridView1.Columns.Count; Bui++)
@@ -202,26 +210,31 @@ namespace SharpGLWinformsApplication1
                 }
             }
             int seriesNum = 0;
-            X = new String[dataGridView1.Rows.Count];
+            Ser.Clear();
+            X_all.Clear();
+            //X = new String[dataGridView1.Rows.Count];
             for (int i = 2; i < dataGridView1.ColumnCount; i++)
             {
+                
                 if (dataGridView1.Columns[i].Visible == true)
                 {
-                    series[seriesNum] = new Double[dataGridView1.Rows.Count];
-                    
-                    for (int F = 0; F < dataGridView1.Rows.Count; F++)
+                    //series[seriesNum] = new Double[dataGridView1.Rows.Count];
+                    if (check_box[seriesNum])
                     {
-                            if (dataGridView1.Rows[F].Cells[i].Value == null)
+                        series = new List<Double>();
+                        X = new List<string>();
+                        for (int F = 0; F < dataGridView1.Rows.Count; F++)
+                        {
+                            if (dataGridView1.Rows[F].Cells[i].Value.ToString().Length != 0)
                             {
-                                continue;
+                                series.Add(Convert.ToDouble(dataGridView1.Rows[F].Cells[i].Value));
+                                X.Add(Convert.ToString(Convert.ToDateTime(dataGridView1.Rows[F].Cells[1].Value).ToString("yyyy/MM/dd hh:mm:ss")));
                             }
-                            series[seriesNum][F] = Convert.ToDouble(dataGridView1.Rows[F].Cells[i].Value);
 
-
-                            X[F] = Convert.ToString(Convert.ToDateTime(dataGridView1.Rows[F].Cells[1].Value).ToString("yyyy/MM/dd hh:mm:ss"));
-                        
+                        }
+                        Ser.Add(series);
+                        X_all.Add(X);
                     }
-                    chart1.Series[seriesNum].Points.DataBindXY(X, series[seriesNum]);
                     seriesNum++;
                     if (seriesNum >3)
                     {
@@ -269,13 +282,6 @@ namespace SharpGLWinformsApplication1
 
                             adapter.Fill(ds, "Sheet1");
                             dataGridView2.DataSource = ds.Tables[0].DefaultView;
-                            //for (int F = 0; F < dataGridView2.Rows.Count; F++)
-                            //{
-                            //    if (dataGridView2.Rows[F].Cells[1].Value == null)
-                            //    {
-                            //        dataGridView2.Rows[F].dele;
-                            //    }
-                            //}
                             sqlConnection sqlstring = new sqlConnection();
                             string str = sqlstring.getconn();
                             SqlConnection con = new SqlConnection(str); //创建连接对象
@@ -348,6 +354,7 @@ namespace SharpGLWinformsApplication1
             dateTimePicker2.Text = "2017/1/11 星期三 16:41";
             comboBox2.SelectedItem = null;
             comboBox3.SelectedItem = null;
+            Combo_insert_times.SelectedItem = null;
 
             int m;
             for (m = 2; m < dataGridView1.Columns.Count; m++)
@@ -372,6 +379,12 @@ namespace SharpGLWinformsApplication1
         history_data_series his_series = new history_data_series();
         private void button5_Click(object sender, EventArgs e)
         {
+            RefreshDataGridView();
+            if (Ser.Count==0)
+            {
+                MessageBox.Show("没有可显示的曲线,请勾选一个显示项目！");
+                return;
+            }
             if (history_series_from.history_series_fo == 0)
             {
 
@@ -384,8 +397,7 @@ namespace SharpGLWinformsApplication1
                 his_series.Visible = true;
                 history_series_from.history_series_fo = 1;
             }
-
-                his_series.add_aChild(series, Pub_cedian, X);
+            his_series.add_aChild(Ser, Pub_cedian, X_all,check_box);
         }
         
 
@@ -398,6 +410,54 @@ namespace SharpGLWinformsApplication1
         private void Combo_insert_times_SelectedIndexChanged(object sender, EventArgs e)
         {
             RefreshDataGridView();
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked == true)
+            {
+                check_box[0] = true;
+            }
+            else
+            {
+                check_box[0] = false;
+            }
+        }
+
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox2.Checked == true)
+            {
+                check_box[1] = true;
+            }
+            else
+            {
+                check_box[1] = false;
+            }
+        }
+
+        private void checkBox3_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox3.Checked == true)
+            {
+                check_box[2] = true;
+            }
+            else
+            {
+                check_box[2] = false;
+            }
+        }
+
+        private void checkBox4_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox4.Checked == true)
+            {
+                check_box[3] = true;
+            }
+            else
+            {
+                check_box[3] = false;
+            }
         }
     
     }   

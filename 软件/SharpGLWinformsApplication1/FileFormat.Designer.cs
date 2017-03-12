@@ -54,9 +54,9 @@
             this.label1.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label1.Location = new System.Drawing.Point(162, 43);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(372, 42);
+            this.label1.Size = new System.Drawing.Size(372, 63);
             this.label1.TabIndex = 0;
-            this.label1.Text = "1.导入文件为excel2007以下版本，文件后缀名为xls\r\n2.excel文件中禁止切分单元格等操作\r\n";
+            this.label1.Text = "1.导入文件为excel2007以下版本，文件后缀名为xls\r\n2.excel文件中禁止切分单元格等操作\r\n3.表头名称必须相同,若无数据可设置为空";
             // 
             // groupBox2
             // 

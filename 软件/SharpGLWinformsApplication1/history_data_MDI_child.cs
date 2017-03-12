@@ -15,23 +15,38 @@ namespace SharpGLWinformsApplication1
         {
             InitializeComponent();
         }
-        public void fill( Double[][] series,
-         int Pub_cedian,String[] X)
+        public void fill( List<List<Double>> Ser,
+         int Pub_cedian,List<List<String>> X_all,bool[]check_box)
         {
-            
-
             chart1.Series[0].Name = "测点" + Pub_cedian + "-应力";
             chart1.Series[1].Name = "测点" + Pub_cedian + "-温度";
             chart1.Series[2].Name = "测点" + Pub_cedian + "-震动";
             chart1.Series[3].Name = "测点" + Pub_cedian + "-变形";
-            this.Text="查看区间：从"+ Convert.ToString(Convert.ToDateTime(X[X.Length-1]).ToString("yyyy/MM/dd hh:mm"))+"到"+Convert.ToString(Convert.ToDateTime(X[0]).ToString("yyyy/MM/dd hh:mm")) ;
-            for(int i=0;i<X.Length;i++){
-                X[i]=Convert.ToString(Convert.ToDateTime(X[i]).ToString("hh:mm:ss"));
-            }
-            for (int seriesNum=0; seriesNum< 4; seriesNum++)
+            for (int i = 0; i < check_box.Length; i++)
             {
-                    chart1.Series[seriesNum].Points.DataBindXY(X, series[seriesNum]);
+                if (!check_box[i])
+                {
+                    chart1.Series[i].IsVisibleInLegend = false;
+                }
             }
+            int temp=0,index=0;
+            for (int i = 0; i < X_all.Count; i++)
+            {
+                if (temp<X_all[i].Count)
+                {
+                    temp = X_all[i].Count;
+                    index = i;
+                }
+            }
+            this.Text = "查看区间：从" + Convert.ToString(Convert.ToDateTime(X_all[index][0]).ToString("yyyy/MM/dd hh:mm")) + "到" + Convert.ToString(Convert.ToDateTime(X_all[index][X_all[index].Count - 1]).ToString("yyyy/MM/dd hh:mm"));
+            for (int seriesNum=0; seriesNum< Ser.Count; seriesNum++)
+            {
+                for (int i = 0; i < Ser[seriesNum].Count; i++)
+                {
+                    chart1.Series[seriesNum].Points.AddXY(Convert.ToString(Convert.ToDateTime(X_all[seriesNum][i]).ToString("hh:mm:ss")), Ser[seriesNum][i]);
+                }
+            }
+                    
         }
 
 
