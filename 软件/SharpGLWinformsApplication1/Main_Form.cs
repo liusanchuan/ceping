@@ -15,6 +15,9 @@ namespace SharpGLWinformsApplication1
         public Main_Form()
         {
             InitializeComponent();
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            //this.FormBorderStyle = FormBorderStyle.FixedSingle;
         }
 
         private void groupBox1_Paint(object sender, System.Windows.Forms.PaintEventArgs e)
