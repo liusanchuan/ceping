@@ -49,7 +49,6 @@
             this.labe4 = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
             this.labe5 = new System.Windows.Forms.Label();
-            this.button5 = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.button2 = new System.Windows.Forms.Button();
@@ -67,6 +66,7 @@
             this.label10 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.button14 = new System.Windows.Forms.Button();
+            this.button15 = new System.Windows.Forms.Button();
             this.button13 = new System.Windows.Forms.Button();
             this.button12 = new System.Windows.Forms.Button();
             this.button11 = new System.Windows.Forms.Button();
@@ -88,9 +88,13 @@
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.button16 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
             this.groupBox3.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
+            this.groupBox4.SuspendLayout();
             this.SuspendLayout();
             // 
             // labe1
@@ -132,6 +136,7 @@
             // 
             this.label0.AutoSize = true;
             this.label0.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label0.ForeColor = System.Drawing.Color.Maroon;
             this.label0.Location = new System.Drawing.Point(10, 426);
             this.label0.Name = "label0";
             this.label0.Size = new System.Drawing.Size(104, 19);
@@ -154,6 +159,7 @@
             // 
             this.labe9.AutoSize = true;
             this.labe9.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.labe9.ForeColor = System.Drawing.Color.Maroon;
             this.labe9.Location = new System.Drawing.Point(10, 383);
             this.labe9.Name = "labe9";
             this.labe9.Size = new System.Drawing.Size(104, 19);
@@ -207,9 +213,9 @@
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button4.Location = new System.Drawing.Point(20, 237);
+            this.button4.Location = new System.Drawing.Point(20, 92);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(153, 50);
+            this.button4.Size = new System.Drawing.Size(147, 34);
             this.button4.TabIndex = 35;
             this.button4.Text = "更改隶属度指标";
             this.button4.UseVisualStyleBackColor = true;
@@ -308,9 +314,9 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button3.Location = new System.Drawing.Point(20, 154);
+            this.button3.Location = new System.Drawing.Point(20, 43);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(153, 50);
+            this.button3.Size = new System.Drawing.Size(147, 41);
             this.button3.TabIndex = 34;
             this.button3.Text = "判断矩阵";
             this.button3.UseVisualStyleBackColor = true;
@@ -325,18 +331,6 @@
             this.labe5.Size = new System.Drawing.Size(66, 19);
             this.labe5.TabIndex = 15;
             this.labe5.Text = "裂纹：";
-            // 
-            // button5
-            // 
-            this.button5.Font = new System.Drawing.Font("宋体", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button5.ForeColor = System.Drawing.Color.Red;
-            this.button5.Location = new System.Drawing.Point(20, 71);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(153, 50);
-            this.button5.TabIndex = 36;
-            this.button5.Text = "开始评估";
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.button5_Click_2);
             // 
             // groupBox3
             // 
@@ -385,9 +379,9 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button2.Location = new System.Drawing.Point(20, 320);
+            this.button2.Location = new System.Drawing.Point(20, 178);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(153, 50);
+            this.button2.Size = new System.Drawing.Size(147, 41);
             this.button2.TabIndex = 30;
             this.button2.Text = "输入重置";
             this.button2.UseVisualStyleBackColor = true;
@@ -443,6 +437,7 @@
             // 
             this.label18.AutoSize = true;
             this.label18.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label18.ForeColor = System.Drawing.Color.Maroon;
             this.label18.Location = new System.Drawing.Point(12, 434);
             this.label18.Name = "label18";
             this.label18.Size = new System.Drawing.Size(104, 19);
@@ -465,6 +460,7 @@
             // 
             this.label19.AutoSize = true;
             this.label19.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label19.ForeColor = System.Drawing.Color.Maroon;
             this.label19.Location = new System.Drawing.Point(12, 385);
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(104, 19);
@@ -531,6 +527,7 @@
             // 
             this.groupBox1.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.groupBox1.Controls.Add(this.button14);
+            this.groupBox1.Controls.Add(this.button15);
             this.groupBox1.Controls.Add(this.button13);
             this.groupBox1.Controls.Add(this.button12);
             this.groupBox1.Controls.Add(this.button11);
@@ -579,6 +576,17 @@
             this.button14.Text = "查看";
             this.button14.UseVisualStyleBackColor = true;
             this.button14.Click += new System.EventHandler(this.button14_Click);
+            // 
+            // button15
+            // 
+            this.button15.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.button15.Location = new System.Drawing.Point(139, 18);
+            this.button15.Name = "button15";
+            this.button15.Size = new System.Drawing.Size(90, 29);
+            this.button15.TabIndex = 0;
+            this.button15.Text = "输入测点应力值";
+            this.button15.UseVisualStyleBackColor = true;
+            this.button15.Click += new System.EventHandler(this.button15_Click);
             // 
             // button13
             // 
@@ -788,7 +796,7 @@
             this.comboBox1.Items.AddRange(new object[] {
             "400",
             "800"});
-            this.comboBox1.Location = new System.Drawing.Point(101, 430);
+            this.comboBox1.Location = new System.Drawing.Point(96, 231);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(72, 24);
             this.comboBox1.Sorted = true;
@@ -799,7 +807,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label1.Location = new System.Drawing.Point(21, 430);
+            this.label1.Location = new System.Drawing.Point(16, 231);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(78, 21);
             this.label1.TabIndex = 40;
@@ -811,21 +819,57 @@
             this.groupBox2.Controls.Add(this.button2);
             this.groupBox2.Controls.Add(this.button3);
             this.groupBox2.Controls.Add(this.comboBox1);
-            this.groupBox2.Controls.Add(this.button5);
             this.groupBox2.Controls.Add(this.button4);
             this.groupBox2.Font = new System.Drawing.Font("宋体", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox2.Location = new System.Drawing.Point(628, 36);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(182, 528);
+            this.groupBox2.Size = new System.Drawing.Size(182, 307);
             this.groupBox2.TabIndex = 41;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "设置参数";
+            this.groupBox2.Text = "操作";
+            // 
+            // groupBox4
+            // 
+            this.groupBox4.Controls.Add(this.button16);
+            this.groupBox4.Controls.Add(this.button5);
+            this.groupBox4.Font = new System.Drawing.Font("宋体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.groupBox4.Location = new System.Drawing.Point(629, 349);
+            this.groupBox4.Name = "groupBox4";
+            this.groupBox4.Size = new System.Drawing.Size(181, 215);
+            this.groupBox4.TabIndex = 42;
+            this.groupBox4.TabStop = false;
+            this.groupBox4.Text = "计算输出";
+            // 
+            // button16
+            // 
+            this.button16.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.button16.ForeColor = System.Drawing.Color.Red;
+            this.button16.Location = new System.Drawing.Point(10, 42);
+            this.button16.Name = "button16";
+            this.button16.Size = new System.Drawing.Size(157, 65);
+            this.button16.TabIndex = 1;
+            this.button16.Text = "计算强度可靠性";
+            this.button16.UseVisualStyleBackColor = true;
+            this.button16.Click += new System.EventHandler(this.button16_Click);
+            // 
+            // button5
+            // 
+            this.button5.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.button5.ForeColor = System.Drawing.Color.Red;
+            this.button5.Location = new System.Drawing.Point(10, 128);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(157, 65);
+            this.button5.TabIndex = 36;
+            this.button5.Text = "评估平台健康分值";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // realiable
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.labelmatrix);
             this.Controls.Add(this.groupBox3);
@@ -841,6 +885,7 @@
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
+            this.groupBox4.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -869,7 +914,6 @@
         private System.Windows.Forms.Label labe4;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Label labe5;
-        private System.Windows.Forms.Button button5;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.TextBox YYJDK;
@@ -908,5 +952,9 @@
         private System.Windows.Forms.Button button11;
         private System.Windows.Forms.Button button10;
         private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.Button button15;
+        private System.Windows.Forms.GroupBox groupBox4;
+        private System.Windows.Forms.Button button16;
+        private System.Windows.Forms.Button button5;
     }
 }

@@ -1016,7 +1016,7 @@
             this.label35.Name = "label35";
             this.label35.Size = new System.Drawing.Size(82, 19);
             this.label35.TabIndex = 25;
-            this.label35.Text = "形变D4:";
+            this.label35.Text = "形变D3:";
             // 
             // label36
             // 
@@ -1027,7 +1027,7 @@
             this.label36.Name = "label36";
             this.label36.Size = new System.Drawing.Size(91, 19);
             this.label36.TabIndex = 26;
-            this.label36.Text = "裂纹D5：";
+            this.label36.Text = "裂纹D4：";
             // 
             // label37
             // 
@@ -1038,7 +1038,7 @@
             this.label37.Name = "label37";
             this.label37.Size = new System.Drawing.Size(131, 19);
             this.label37.TabIndex = 27;
-            this.label37.Text = "材料参数D6：";
+            this.label37.Text = "材料参数D5：";
             // 
             // label38
             // 
@@ -1049,7 +1049,7 @@
             this.label38.Name = "label38";
             this.label38.Size = new System.Drawing.Size(151, 19);
             this.label38.TabIndex = 28;
-            this.label38.Text = "涂层烧蚀量D7：";
+            this.label38.Text = "涂层烧蚀量D6：";
             // 
             // label39
             // 
@@ -1060,13 +1060,13 @@
             this.label39.Name = "label39";
             this.label39.Size = new System.Drawing.Size(131, 19);
             this.label39.TabIndex = 29;
-            this.label39.Text = "传动阻力D8：";
+            this.label39.Text = "传动阻力D7：";
             // 
             // label40
             // 
             this.label40.AutoSize = true;
             this.label40.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label40.ForeColor = System.Drawing.SystemColors.Desktop;
+            this.label40.ForeColor = System.Drawing.Color.Maroon;
             this.label40.Location = new System.Drawing.Point(17, 337);
             this.label40.Name = "label40";
             this.label40.Size = new System.Drawing.Size(131, 19);
@@ -1077,7 +1077,7 @@
             // 
             this.label41.AutoSize = true;
             this.label41.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label41.ForeColor = System.Drawing.SystemColors.Desktop;
+            this.label41.ForeColor = System.Drawing.Color.Maroon;
             this.label41.Location = new System.Drawing.Point(17, 368);
             this.label41.Name = "label41";
             this.label41.Size = new System.Drawing.Size(142, 19);

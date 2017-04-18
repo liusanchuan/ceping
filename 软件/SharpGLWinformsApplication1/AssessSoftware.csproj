@@ -123,6 +123,12 @@
     <Compile Include="history_data_series.Designer.cs">
       <DependentUpon>history_data_series.cs</DependentUpon>
     </Compile>
+    <Compile Include="InputYingliZhi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputYingliZhi.Designer.cs">
+      <DependentUpon>InputYingliZhi.cs</DependentUpon>
+    </Compile>
     <Compile Include="KuoZhanSuLv.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -213,6 +219,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="history_data_series.resx">
       <DependentUpon>history_data_series.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputYingliZhi.resx">
+      <DependentUpon>InputYingliZhi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="KuoZhanSuLv.resx">
       <DependentUpon>KuoZhanSuLv.cs</DependentUpon>

@@ -128,37 +128,37 @@ namespace SharpGLWinformsApplication1
                 dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
                 if (Sd.Name == "b23"){
                     textBoxB23.Text = Sd.InnerText.Trim();
-            dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
+                    dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
                 if (Sd.Name == "c12"){
                     textBoxc12.Text = Sd.InnerText.Trim();
-        dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
+                    dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
                 if (Sd.Name == "c13"){
                     textBoxc13.Text = Sd.InnerText.Trim();
-    dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
+                    dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
                 if (Sd.Name == "c23"){
                     textBoxc23.Text = Sd.InnerText.Trim();
-dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
+                    dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
                 if (Sd.Name == "d12"){
                     textBoxD12.Text = Sd.InnerText.Trim();
-dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
+                    dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
                 if (Sd.Name == "d45"){
                     textBoxd45.Text = Sd.InnerText.Trim();
-dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
+                    dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
                 if (Sd.Name == "d46"){
                     textBoxd46.Text = Sd.InnerText.Trim();
-dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
+                    dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
                 if (Sd.Name == "d56"){
                     textBoxd56.Text = Sd.InnerText.Trim();
-dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
+                    dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
                 if (Sd.Name == "c45"){
                     textBoxc45.Text = Sd.InnerText.Trim();
-dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
+                    dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
                 if (Sd.Name == "d78"){
                     textBoxD78.Text = Sd.InnerText.Trim();
-dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
+                    dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
             }
 
-                    double[,] B = new double[3, 3]{{1,dic["b12"],dic["b13"]},
+            double[,] B = new double[3, 3]{{1,dic["b12"],dic["b13"]},
                                         {1/dic["b12"],1,dic["b23"]},
                                         {1/dic["b13"],1/dic["b23"],1}};
             double[,] C123 = new double[3, 3]{{1,dic["c12"],dic["c13"]},
@@ -190,9 +190,10 @@ dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
             Final_D[5] = Qz_B[0] * Qz_c123[2] * Qz_D567[2];
 
             
-            Final_D[6] = Qz_B[1] * Qz_C45[0] * Qz_D89[0];
-            Final_D[7] = Qz_B[1] * Qz_C45[0] * Qz_D89[1];
-            Final_D[8] = Qz_B[1] * Qz_C45[1];
+            //Final_D[6] = Qz_B[1] * Qz_C45[0] * Qz_D89[0];
+            //Final_D[7] = Qz_B[1] * Qz_C45[0] * Qz_D89[1];
+            //Final_D[8] = Qz_B[1] * Qz_C45[1];
+            Final_D[6] = Qz_B[1];
 
             textBox10.Text = Final_D[0].ToString("N4");
             textBox41.Text = Final_D[1].ToString("N4");

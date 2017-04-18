@@ -5,6 +5,11 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssessSoftware", "SharpGLWinformsApplication1\AssessSoftware.csproj", "{911A32FE-3ECD-4E57-9CD6-C0E6236DE9E6}"
 EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup1", "Setup1\Setup1.isproj", "{9317A074-57B8-4146-BE4B-0ED29235E4C6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{911A32FE-3ECD-4E57-9CD6-C0E6236DE9E6} = {911A32FE-3ECD-4E57-9CD6-C0E6236DE9E6}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|x86 = CD_ROM|x86
@@ -24,6 +29,16 @@ Global
 		{911A32FE-3ECD-4E57-9CD6-C0E6236DE9E6}.Release|x86.Build.0 = Release|x86
 		{911A32FE-3ECD-4E57-9CD6-C0E6236DE9E6}.SingleImage|x86.ActiveCfg = Release|x86
 		{911A32FE-3ECD-4E57-9CD6-C0E6236DE9E6}.SingleImage|x86.Build.0 = Release|x86
+		{9317A074-57B8-4146-BE4B-0ED29235E4C6}.CD_ROM|x86.ActiveCfg = CD_ROM
+		{9317A074-57B8-4146-BE4B-0ED29235E4C6}.CD_ROM|x86.Build.0 = CD_ROM
+		{9317A074-57B8-4146-BE4B-0ED29235E4C6}.Debug|x86.ActiveCfg = DVD-5
+		{9317A074-57B8-4146-BE4B-0ED29235E4C6}.Debug|x86.Build.0 = DVD-5
+		{9317A074-57B8-4146-BE4B-0ED29235E4C6}.DVD-5|x86.ActiveCfg = DVD-5
+		{9317A074-57B8-4146-BE4B-0ED29235E4C6}.DVD-5|x86.Build.0 = DVD-5
+		{9317A074-57B8-4146-BE4B-0ED29235E4C6}.Release|x86.ActiveCfg = SingleImage
+		{9317A074-57B8-4146-BE4B-0ED29235E4C6}.Release|x86.Build.0 = SingleImage
+		{9317A074-57B8-4146-BE4B-0ED29235E4C6}.SingleImage|x86.ActiveCfg = SingleImage
+		{9317A074-57B8-4146-BE4B-0ED29235E4C6}.SingleImage|x86.Build.0 = SingleImage
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -205,3 +205,4 @@ G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Release\S
 G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Release\AssessSoftware.csproj.GenerateResource.Cache
 G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Release\SharpGLWinformsApplication1.history_data_MDI_child.resources
 G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Release\SharpGLWinformsApplication1.history_data_series.resources
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Release\SharpGLWinformsApplication1.InputYingliZhi.resources

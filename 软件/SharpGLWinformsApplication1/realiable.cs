@@ -411,7 +411,7 @@ namespace SharpGLWinformsApplication1
         }
 
 
-        private void button5_Click_2(object sender, EventArgs e)
+        private void button5_Click(object sender, EventArgs e)
         {
             //Save_SQL_Data();
             sqlConnection sc = new sqlConnection();
@@ -660,6 +660,18 @@ namespace SharpGLWinformsApplication1
         {
             calculate(1, 9);
         }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+            InputYingliZhi inputYinglizhi = new InputYingliZhi();
+            inputYinglizhi.ShowDialog();
+        }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }
 
