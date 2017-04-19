@@ -540,3 +540,4 @@ G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\Sha
 G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Register.resources
 G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.ReliabilityAssessResult.resources
 G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\AssessSoftware.csproj.GenerateResource.Cache
+G:\Program\测评\软件_V4\软件\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.InputYingliZhi.resources

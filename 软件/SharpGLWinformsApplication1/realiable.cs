@@ -28,8 +28,8 @@ namespace SharpGLWinformsApplication1
                                  "材料参数",
                                  "涂层烧蚀量",
                                  "传动阻力",
-                                 "电机扭矩",
-                                 "制动力矩",
+                                 //"电机扭矩",
+                                 //"制动力矩",
                                  "液压及电控"
                              };
         public realiable()
@@ -260,7 +260,7 @@ namespace SharpGLWinformsApplication1
         {
 
 
-            double[,] dtrow_CZB = new double[6, 10];
+            double[,] dtrow_CZB = new double[6, 8];
             string str = "../Debug/LiShuduBiao400.xml";
             if(XMLConnectionr.str=="800")
                 str= "../Debug/LiShuduBiao800.xml";
@@ -296,7 +296,7 @@ namespace SharpGLWinformsApplication1
                 }
             }
 
-            double[,] _LiShuDu=new double[10,5];        //form left big to right little
+            double[,] _LiShuDu=new double[8,5];        //form left big to right little
                         //定义负相关的参数对应的列
             int[] FuXiangGuan_Columns ={
                                             0,1,2,3,5,6
@@ -423,8 +423,8 @@ namespace SharpGLWinformsApplication1
                 CLCS.Text.Trim().ToString(),
                 SSL.Text.Trim().ToString(),
                 CDZL.Text.Trim().ToString(),
-                DJNJ.Text.Trim().ToString(),
-                ZDLJ.Text.Trim().ToString(),
+                //DJNJ.Text.Trim().ToString(),
+                //ZDLJ.Text.Trim().ToString(),
                 YYJDK.Text.Trim().ToString()
             };
 
@@ -441,6 +441,8 @@ namespace SharpGLWinformsApplication1
 
             double[,] LiShuDu_Ckz = ReadXmlData();    //this array is used to save the the map inthe XML;
             double[] array = new double[LiShuDu_Ckz.GetLength(0)];
+
+            //判断输入值是否在规定的范围内
             for (int i = 0; i < LiShuDu_Ckz.GetLength(1); i++)
             {
                 for (int k = 0; k < LiShuDu_Ckz.GetLength(0); k++)
@@ -471,8 +473,8 @@ namespace SharpGLWinformsApplication1
                                     Convert.ToDouble(CLCS.Text),
                                     Convert.ToDouble(SSL.Text) ,
                                     Convert.ToDouble(CDZL.Text),
-                                    Convert.ToDouble(DJNJ.Text),
-                                    Convert.ToDouble(ZDLJ.Text),
+                                    //Convert.ToDouble(DJNJ.Text),
+                                    //Convert.ToDouble(ZDLJ.Text),
                                     Convert.ToDouble(YYJDK.Text)
                                };
              Double densy=0;
@@ -502,8 +504,8 @@ namespace SharpGLWinformsApplication1
                         Convert.ToDouble(JM.TextBox05Text.Trim()),
                         Convert.ToDouble(JM.TextBox06Text.Trim()),
                         Convert.ToDouble(JM.TextBox07Text.Trim()),
-                        Convert.ToDouble(JM.TextBox08Text.Trim()),
-                        Convert.ToDouble(JM.TextBox09Text.Trim()),
+                        //Convert.ToDouble(JM.TextBox08Text.Trim()),
+                        //Convert.ToDouble(JM.TextBox09Text.Trim()),
                         Convert.ToDouble(JM.TextBox10Text.Trim())
                     }
                     );
@@ -536,7 +538,7 @@ namespace SharpGLWinformsApplication1
                 }
             }
             CanshuTU ctu = new CanshuTU();
-            ctu.Show();
+            ctu.ShowDialog();
             
         }
 
@@ -648,17 +650,17 @@ namespace SharpGLWinformsApplication1
 
         private void button12_Click(object sender, EventArgs e)
         {
-            calculate(1, 7);
+            //calculate(1, 7);
         }
 
         private void button13_Click(object sender, EventArgs e)
         {
-            calculate(1, 8);
+            //calculate(1, 8);
         }
 
         private void button14_Click(object sender, EventArgs e)
         {
-            calculate(1, 9);
+            calculate(1, 7);
         }
 
         private void button15_Click(object sender, EventArgs e)

@@ -212,10 +212,11 @@
             // 
             // button4
             // 
+            this.button4.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.button4.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.button4.Location = new System.Drawing.Point(20, 92);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(147, 34);
+            this.button4.Size = new System.Drawing.Size(147, 41);
             this.button4.TabIndex = 35;
             this.button4.Text = "更改隶属度指标";
             this.button4.UseVisualStyleBackColor = true;

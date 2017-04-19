@@ -38,8 +38,6 @@
             this.材料参数ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.涂层烧蚀量ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.传动阻力ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.电机扭矩ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.制动力矩ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.液压及电控ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.T0 = new CCWin.SkinControl.SkinWaterTextBox();
             this.T1 = new CCWin.SkinControl.SkinWaterTextBox();
@@ -103,8 +101,6 @@
             this.材料参数ToolStripMenuItem,
             this.涂层烧蚀量ToolStripMenuItem,
             this.传动阻力ToolStripMenuItem,
-            this.电机扭矩ToolStripMenuItem,
-            this.制动力矩ToolStripMenuItem,
             this.液压及电控ToolStripMenuItem});
             this.skinMenuStrip1.Location = new System.Drawing.Point(0, 0);
             this.skinMenuStrip1.Name = "skinMenuStrip1";
@@ -167,20 +163,6 @@
             this.传动阻力ToolStripMenuItem.Size = new System.Drawing.Size(77, 24);
             this.传动阻力ToolStripMenuItem.Text = "传动阻力";
             this.传动阻力ToolStripMenuItem.Click += new System.EventHandler(this.传动阻力ToolStripMenuItem_Click);
-            // 
-            // 电机扭矩ToolStripMenuItem
-            // 
-            this.电机扭矩ToolStripMenuItem.Name = "电机扭矩ToolStripMenuItem";
-            this.电机扭矩ToolStripMenuItem.Size = new System.Drawing.Size(77, 24);
-            this.电机扭矩ToolStripMenuItem.Text = "电机扭矩";
-            this.电机扭矩ToolStripMenuItem.Click += new System.EventHandler(this.电机扭矩ToolStripMenuItem_Click);
-            // 
-            // 制动力矩ToolStripMenuItem
-            // 
-            this.制动力矩ToolStripMenuItem.Name = "制动力矩ToolStripMenuItem";
-            this.制动力矩ToolStripMenuItem.Size = new System.Drawing.Size(77, 24);
-            this.制动力矩ToolStripMenuItem.Text = "制动力矩";
-            this.制动力矩ToolStripMenuItem.Click += new System.EventHandler(this.制动力矩ToolStripMenuItem_Click);
             // 
             // 液压及电控ToolStripMenuItem
             // 
@@ -361,7 +343,6 @@
             this.dataGridView1.RowTemplate.Height = 23;
             this.dataGridView1.Size = new System.Drawing.Size(216, 95);
             this.dataGridView1.TabIndex = 15;
-            this.dataGridView1.Visible = false;
             // 
             // skinButton1
             // 
@@ -414,8 +395,6 @@
         private System.Windows.Forms.ToolStripMenuItem 材料参数ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 涂层烧蚀量ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 传动阻力ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 电机扭矩ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 制动力矩ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 液压及电控ToolStripMenuItem;
         private CCWin.SkinControl.SkinWaterTextBox T0;
         private CCWin.SkinControl.SkinWaterTextBox T1;

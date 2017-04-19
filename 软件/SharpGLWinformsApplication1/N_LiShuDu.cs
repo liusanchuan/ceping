@@ -20,10 +20,9 @@ namespace SharpGLWinformsApplication1
                                  "材料参数",
                                  "涂层烧蚀量",
                                  "传动阻力",
-                                 "电机扭矩",
-                                 "制动力矩",
+                                 //"电机扭矩",
+                                 //"制动力矩",
                                  "液压及电控"
-
                              };
         public int Col = 0;//存储当前 按钮值
         public N_LiShuDu()
@@ -157,25 +156,25 @@ namespace SharpGLWinformsApplication1
             appendValue(Col);
         }
 
-        private void 电机扭矩ToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            if (!IsTheDataSaved())
-            {
-                return;
-            }
-            Col = 7;
-            appendValue(Col);
-        }
+        //private void 电机扭矩ToolStripMenuItem_Click(object sender, EventArgs e)
+        //{
+        //    if (!IsTheDataSaved())
+        //    {
+        //        return;
+        //    }
+        //    Col = 7;
+        //    appendValue(Col);
+        //}
 
-        private void 制动力矩ToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            if (!IsTheDataSaved())
-            {
-                return;
-            }
-            Col = 8;
-            appendValue(Col);
-        }
+        //private void 制动力矩ToolStripMenuItem_Click(object sender, EventArgs e)
+        //{
+        //    if (!IsTheDataSaved())
+        //    {
+        //        return;
+        //    }
+        //    Col = 8;
+        //    appendValue(Col);
+        //}
 
         private void 液压及电控ToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -183,7 +182,7 @@ namespace SharpGLWinformsApplication1
             {
                 return;
             }
-            Col = 9;
+            Col = 7;
             appendValue(Col);
         }
 
