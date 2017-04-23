@@ -33,7 +33,7 @@ namespace SharpGLWinformsApplication1
             }
         }
         private HistoryList his = null;
-        private string[] array = null;
+        //private string[] array = null;
         public JudgmentMatrix()
         {
             InitializeComponent();
@@ -96,15 +96,12 @@ namespace SharpGLWinformsApplication1
                     Sd.InnerText= textBoxd46.Text ;
                 if (Sd.Name == "d56")
                     Sd.InnerText= textBoxd56.Text ;
-                if (Sd.Name == "c45")
-                    Sd.InnerText= textBoxc45.Text ;
-                if (Sd.Name == "d78")
-                    Sd.InnerText = textBoxD78.Text;
+
             }
             doc.Save("../Debug/Judgemartia.xml");
 
             // 触发事件， 传递自定义参数
-            OnDataChange(this, new DataChangeEventArgs(textBox10.Text, textBox41.Text, textBox42.Text, textBox43.Text, textBox44.Text, textBox45.Text, textBox46.Text, textBox47.Text, textBox48.Text, textBox49.Text));
+            OnDataChange(this, new DataChangeEventArgs(textBox10.Text, textBox41.Text, textBox42.Text, textBox43.Text, textBox44.Text, textBox45.Text, textBox46.Text, textBox49.Text));
         }
 
         private void JudgmentMatrix_Load(object sender, EventArgs e)
@@ -150,12 +147,6 @@ namespace SharpGLWinformsApplication1
                 if (Sd.Name == "d56"){
                     textBoxd56.Text = Sd.InnerText.Trim();
                     dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
-                if (Sd.Name == "c45"){
-                    textBoxc45.Text = Sd.InnerText.Trim();
-                    dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
-                if (Sd.Name == "d78"){
-                    textBoxD78.Text = Sd.InnerText.Trim();
-                    dic.Add(Sd.Name,Convert.ToDouble(Sd.InnerText.Trim()));}
             }
 
             double[,] B = new double[3, 3]{{1,dic["b12"],dic["b13"]},
@@ -164,23 +155,23 @@ namespace SharpGLWinformsApplication1
             double[,] C123 = new double[3, 3]{{1,dic["c12"],dic["c13"]},
                                         {1/dic["c12"],1,dic["c23"]},
                                         {1/dic["c13"],1/dic["c23"],1}};
-            double[,] C45 = new double[2, 2]{
-                                                {1,dic["c45"]},
-                                                {1/dic["c45"],1}
-            };
+           //double[,] C45 = new double[2, 2]{
+           //                                     {1,dic["c45"]},
+           //                                     {1/dic["c45"],1}
+           // };
             double[,] D12 = new double[2,2]{{1,dic["d12"]},
                                         {1/dic["d12"],1}};
             double[,] D567 = new double[3, 3]{{1,dic["d45"],dic["d46"]},
                                         {1/dic["d45"],1,dic["d56"]},
                                         {1/dic["d46"],1/dic["d56"],1}};
-            double[,] D89 = new double[2, 2]{{1,dic["d78"]},
-                                                {1/dic["d78"],1}};
+            //double[,] D89 = new double[2, 2]{{1,dic["d78"]},
+            //                                    {1/dic["d78"],1}};
             var Qz_B = getMaxEigenValues(B, 3);//B1層權重
             var Qz_c123 = getMaxEigenValues(C123, 3);
-            var Qz_C45 = getMaxEigenValues(C45, 2);
+            //var Qz_C45 = getMaxEigenValues(C45, 2);
             var Qz_D12 = getMaxEigenValues(D12, 2);
             var Qz_D567 = getMaxEigenValues(D567, 3);
-            var Qz_D89 = getMaxEigenValues(D89, 2);
+            //var Qz_D89 = getMaxEigenValues(D89, 2);
             double[] Final_D = new double[9];
             Final_D[0] = Qz_B[0] * Qz_c123[0] * Qz_D12[0];
             Final_D[1] = Qz_B[0] * Qz_c123[0] * Qz_D12[1];
@@ -202,8 +193,6 @@ namespace SharpGLWinformsApplication1
             textBox44.Text = Final_D[4].ToString("N4");
             textBox45.Text = Final_D[5].ToString("N4");
             textBox46.Text = Final_D[6].ToString("N4");
-            textBox47.Text = Final_D[7].ToString("N4");
-            textBox48.Text = Final_D[8].ToString("N4");
             textBox49.Text = Qz_B[2].ToString("N4");
         }
         private void button1_Click(object sender, EventArgs e)
@@ -233,10 +222,7 @@ namespace SharpGLWinformsApplication1
                     Sd.InnerText = textBoxd46.Text;
                 if (Sd.Name == "d56")
                     Sd.InnerText = textBoxd56.Text;
-                if (Sd.Name == "c45")
-                    Sd.InnerText = textBoxc45.Text;
-                if (Sd.Name == "d78")
-                    Sd.InnerText = textBoxD78.Text;
+
             }
             doc.Save("../Debug/Judgemartia.xml");
             calcul();
@@ -277,16 +263,7 @@ namespace SharpGLWinformsApplication1
             set { this.textBox46.Text = value; }
             get { return this.textBox46.Text; }
         }
-        public string TextBox08Text
-        {
-            set { this.textBox47.Text = value; }
-            get { return this.textBox47.Text; }
-        }
-        public string TextBox09Text
-        {
-            set { this.textBox48.Text = value; }
-            get { return this.textBox48.Text; }
-        }
+
         public string TextBox10Text
         {
             set { this.textBox49.Text = value; }
@@ -339,16 +316,6 @@ namespace SharpGLWinformsApplication1
             if (textBoxd45.Text.Trim().Length == 0 || textBoxd46.Text.Trim().Length == 0 || textBoxd56.Text.Trim().Length == 0)
             {
                 MessageBox.Show("请检查C3层判断矩阵");
-                return false;
-            }
-            if (textBoxc45.Text.Trim().Length == 0)
-            {
-                MessageBox.Show("请检查B2层判断矩阵");
-                return false;
-            }
-            if (textBoxD78.Text.Trim().Length == 0)
-            {
-                MessageBox.Show("请检查C4层判断矩阵");
                 return false;
             }
             return true;
@@ -482,16 +449,7 @@ namespace SharpGLWinformsApplication1
         {
             check_Num(this.textBoxd56, this.textBox32);
         }
-
-        private void textBox35_TextChanged(object sender, EventArgs e)
-        {
-            check_Num(this.textBoxc45, this.textBox34);
-        }
-
-        private void textBox39_TextChanged(object sender, EventArgs e)
-        {
-            check_Num(this.textBoxD78, this.textBox38);
-        }
+     
 
         
 
@@ -524,10 +482,9 @@ namespace SharpGLWinformsApplication1
         public string F { get; set; }
         public string G { get; set; }
         public string I { get; set; }
-        public string J { get; set; }
-        public string H { get; set; }
+
       
-        public DataChangeEventArgs(string s1, string s2, string s3, string s4, string s5, string s6, string s7, string s8, string s9, string s10)
+        public DataChangeEventArgs(string s1, string s2, string s3, string s4, string s5, string s6, string s7, string s8)
         {
             A = s1;
             B = s2;
@@ -536,9 +493,7 @@ namespace SharpGLWinformsApplication1
             E = s5;
             F = s6;
             G = s7;
-            H = s8;
-            I = s9;
-            J = s10;
+            I = s8;
 
         }
     }

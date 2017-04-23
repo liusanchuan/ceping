@@ -317,20 +317,20 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("SWRomns", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(375, 251);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(111, 61);
+            this.label2.Size = new System.Drawing.Size(80, 55);
             this.label2.TabIndex = 14;
             this.label2.Text = "=>";
             // 
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Font = new System.Drawing.Font("SWRomns", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.Location = new System.Drawing.Point(719, 251);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(111, 61);
+            this.label12.Size = new System.Drawing.Size(80, 55);
             this.label12.TabIndex = 14;
             this.label12.Text = "=>";
             // 
@@ -590,6 +590,7 @@
             this.Controls.Add(this.label2);
             this.Name = "InputYingliZhi";
             this.Text = "输入应力值";
+            this.Load += new System.EventHandler(this.InputYingliZhi_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);

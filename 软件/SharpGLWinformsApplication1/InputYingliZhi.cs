@@ -10,12 +10,16 @@ using System.Windows.Forms;
 
 namespace SharpGLWinformsApplication1
 {
+    //定义应力回传委托
+    public delegate void TransfDelegate(String stress_value);
     public partial class InputYingliZhi : Form
     {
         public InputYingliZhi()
         {
             InitializeComponent();
         }
+        //声明委托
+        public event TransfDelegate TransfEvent;
         private bool CheckFormat(String tb_text)
         {
             if (tb_text.Trim().Length == 0)
@@ -70,8 +74,15 @@ namespace SharpGLWinformsApplication1
                     
                 }
             }
-            int J=GaiLv_table.Length-1;
-            return (R[J + 1] - R[J]) / (GaiLv_table[J + 1] - GaiLv_table[J]) * (GaiLv - GaiLv_table[J]) + R[J];
+            //超过可靠性系数大于0.999999的情况
+            if (GaiLv < 4)
+            {
+                return (GaiLv - 4) * (0.000001 / 3.27) + 1;
+            }
+            else
+            {
+                return 1;
+            }
         }
 
         private void Cal_QiangDu()
@@ -98,21 +109,19 @@ namespace SharpGLWinformsApplication1
             
             try
             {
-                Double R52 = 345.0 / Convert.ToDouble(textBox52.Text);
-                Double R51 = 345.0 / Convert.ToDouble(textBox51.Text);
-                Double R4 = 345.0 / Convert.ToDouble( textBox4.Text);
-                Double R32 = 345.0 / Convert.ToDouble(textBox32.Text);
-                Double R31 = 345.0 / Convert.ToDouble(textBox31.Text);
-                Double R24 = 345.0 / Convert.ToDouble(textBox24.Text);
-                Double R23 = 345.0 / Convert.ToDouble(textBox23.Text);
-                Double R22 = 345.0 / Convert.ToDouble(textBox22.Text);
-                Double R21 = 345.0 / Convert.ToDouble(textBox21.Text);
-                Double R14 = 345.0 / Convert.ToDouble(textBox14.Text);
-                Double R13 = 345.0 / Convert.ToDouble(textBox13.Text);
-                Double R12 = 345.0 / Convert.ToDouble(textBox12.Text);
-                Double R11 = 345.0 / Convert.ToDouble(textBox11.Text); 
-
-
+                Double R52 = Cal_R(textBox52.Text);
+                Double R51 = Cal_R(textBox51.Text);
+                Double R4 =  Cal_R( textBox4.Text);
+                Double R32 = Cal_R(textBox32.Text);
+                Double R31 = Cal_R(textBox31.Text);
+                Double R24 = Cal_R(textBox24.Text);
+                Double R23 = Cal_R(textBox23.Text);
+                Double R22 = Cal_R(textBox22.Text);
+                Double R21 = Cal_R(textBox21.Text);
+                Double R14 = Cal_R(textBox14.Text);
+                Double R13 = Cal_R(textBox13.Text);
+                Double R12 = Cal_R(textBox12.Text);
+                Double R11 = Cal_R(textBox11.Text); 
                R = new Double[5]{
                     R11*R12*Math.Pow(R13,8)*Math.Pow(R14,20),
                     R21*R22*Math.Pow(R23,8)*Math.Pow(R24,20),
@@ -120,23 +129,96 @@ namespace SharpGLWinformsApplication1
                     R4,
                     1-(1-R51)*(1-R52)
                 };
-               textBoxR1.Text = R[0].ToString("0.000");
-               textBoxR2.Text = R[1].ToString("0.000");
-               textBoxR3.Text = R[2].ToString("0.000");
-               textBoxR4.Text = R[3].ToString("0.000");
-               textBoxR5.Text = R[4].ToString("0.000");
+               textBoxR1.Text = R[0].ToString();
+               textBoxR2.Text = R[1].ToString();
+               textBoxR3.Text = R[2].ToString();
+               textBoxR4.Text = R[3].ToString();
+               textBoxR5.Text = R[4].ToString();
 
                Double RS = R[0] * R[1] * Math.Pow(R[2], 2) * R[3] * Math.Pow(R[4], 8);
-               textBox_KKX.Text = RS.ToString("0.000");
+               textBox_KKX.Text = RS.ToString();
+                SaveDatabase();
+
             }
             catch (Exception E)
             {
                 MessageBox.Show("输入值有误");
             }
         }
+        private void SaveDatabase()
+        {
+            DataClasses1DataContext dc = Dataclass1Singlon.getSinglon();
+            StressInput stress_input = dc.StressInput.FirstOrDefault();
+            try {
+                dc.StressInput.DeleteOnSubmit(stress_input);
+                dc.SubmitChanges();
+            }catch(Exception E)
+            {
+                ;
+            }
+            try {
+                stress_input = new StressInput()
+                {
+                    kc11 = Convert.ToDouble(textBox11.Text),
+                    kc12 = Convert.ToDouble(textBox12.Text),
+                    kc13 = Convert.ToDouble(textBox13.Text),
+                    kc14 = Convert.ToDouble(textBox14.Text),
+                    kc21 = Convert.ToDouble(textBox21.Text),
+                    kc22 = Convert.ToDouble(textBox22.Text),
+                    kc23 = Convert.ToDouble(textBox23.Text),
+                    kc24 = Convert.ToDouble(textBox24.Text),
+                    kc31 = Convert.ToDouble(textBox31.Text),
+                    kc32 = Convert.ToDouble(textBox32.Text),
+                    kc4 = Convert.ToDouble(textBox4.Text),
+                    kc51 = Convert.ToDouble(textBox51.Text),
+                    kc52 = Convert.ToDouble(textBox52.Text)
+                };
+                dc.StressInput.InsertOnSubmit(stress_input);
+                dc.SubmitChanges();
+            }catch(Exception E)
+            {
+                ;
+            }
+        }
+        private void ReadDatabase()
+        {
+            try
+            {
+                DataClasses1DataContext dc = Dataclass1Singlon.getSinglon();
+                var stress_input = from i in dc.StressInput
+                                   where i.Id == 0
+                                   select i;
+
+                textBox11.Text = stress_input.First().kc11.ToString();
+                textBox12.Text = stress_input.First().kc12.ToString();
+                textBox13.Text = stress_input.First().kc13.ToString();
+                textBox14.Text = stress_input.First().kc14.ToString();
+                textBox21.Text = stress_input.First().kc21.ToString();
+                textBox22.Text = stress_input.First().kc22.ToString();
+                textBox23.Text = stress_input.First().kc23.ToString();
+                textBox24.Text = stress_input.First().kc24.ToString();
+                textBox31.Text = stress_input.First().kc31.ToString();
+                textBox32.Text = stress_input.First().kc32.ToString();
+                textBox4.Text = stress_input.First().kc4.ToString();
+                textBox51.Text = stress_input.First().kc51.ToString();
+                textBox52.Text = stress_input.First().kc52.ToString();
+
+            }
+            catch (Exception E)
+            {
+                ;
+            }
+        }
         private void button1_Click(object sender, EventArgs e)
         {
             Cal_QiangDu();
+            //触发委托事件
+            TransfEvent(textBox_KKX.Text);
+        }
+
+        private void InputYingliZhi_Load(object sender, EventArgs e)
+        {
+            ReadDatabase();
         }
     }
 }

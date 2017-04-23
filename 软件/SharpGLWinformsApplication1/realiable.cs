@@ -53,8 +53,7 @@ namespace SharpGLWinformsApplication1
             SSL.Text = "";
             CLCS.Text = "";
             CDZL.Text = "";
-            DJNJ.Text = "";
-            ZDLJ.Text = "";
+
             YYJDK.Text = "";
             /*YYDK.Text = "";
             AQXS.Text = "";*/
@@ -78,9 +77,8 @@ namespace SharpGLWinformsApplication1
             textBox5.Text = args.E;
             textBox6.Text = args.F;
             textBox7.Text = args.G;
-            textBox8.Text = args.H;
-            textBox9.Text = args.I;
-            textBox10.Text = args.J; 
+
+            textBox10.Text = args.I; 
         }
 
         private void button4_Click_1(object sender, EventArgs e)
@@ -221,37 +219,9 @@ namespace SharpGLWinformsApplication1
                 }
             }
 
-            if (DJNJ.Text.Trim().Length == 0)
-            {
-                MessageBox.Show("请输入电机扭矩");
-                return false;
-            }
-            else
-            {
-                string pattern = @"^-?\d+\.?\d*$";
-                Match m = Regex.Match(DJNJ.Text, pattern);   // 匹配正则表达式
-                if (!m.Success)   // 输入的不是数字
-                {
-                    MessageBox.Show("请正确输入电机扭矩");
-                    return false;
-                }
-            }
+         
 
-            if (ZDLJ.Text.Trim().Length == 0)
-            {
-                MessageBox.Show("请输入制动力矩");
-                return false;
-            }
-            else
-            {
-                string pattern = @"^-?\d+\.?\d*$";
-                Match m = Regex.Match(ZDLJ.Text, pattern);   // 匹配正则表达式
-                if (!m.Success)   // 输入的不是数字
-                {
-                    MessageBox.Show("请正确输入制动力矩");
-                    return false;
-                }
-            }
+       
 
 
             return true;
@@ -371,8 +341,6 @@ namespace SharpGLWinformsApplication1
                 CLCS.Text=ds.Tables[0].Rows[0][i++].ToString().Trim();
                 SSL.Text=ds.Tables[0].Rows[0][i++].ToString().Trim();
                 CDZL.Text=ds.Tables[0].Rows[0][i++].ToString().Trim();
-                DJNJ.Text=ds.Tables[0].Rows[0][i++].ToString().Trim();
-                ZDLJ.Text=ds.Tables[0].Rows[0][i++].ToString().Trim();
                 YYJDK.Text = ds.Tables[0].Rows[0][i++].ToString().Trim();
             }catch(Exception e){
 
@@ -390,8 +358,7 @@ namespace SharpGLWinformsApplication1
                     "'" + Convert.ToDouble(CLCS.Text.Trim()).ToString() + "'," +
                     "'" + Convert.ToDouble(SSL.Text.Trim()).ToString() + "'," +
                     "'" + Convert.ToDouble(CDZL.Text.Trim()).ToString() + "'," +
-                    "'" + Convert.ToDouble(DJNJ.Text.Trim()).ToString() + "'," +
-                    "'" + Convert.ToDouble(ZDLJ.Text.Trim()).ToString() + "'," +
+
                     "'" + Convert.ToDouble(YYJDK.Text.Trim()).ToString() + "')";
 
                 sqlConnection sc = new sqlConnection();
@@ -578,8 +545,7 @@ namespace SharpGLWinformsApplication1
                     CLCS.Text = ReadData[i++];
                     SSL.Text = ReadData[i++];
                     CDZL.Text = ReadData[i++];
-                    DJNJ.Text = ReadData[i++];
-                    ZDLJ.Text = ReadData[i++];
+
                     YYJDK.Text = ReadData[i++];
                 }
                 catch (Exception EE)
@@ -601,8 +567,6 @@ namespace SharpGLWinformsApplication1
             this.textBox5.Text = JM.TextBox05Text;
             this.textBox6.Text = JM.TextBox06Text;
             this.textBox7.Text = JM.TextBox07Text;
-            this.textBox8.Text = JM.TextBox08Text;
-            this.textBox9.Text = JM.TextBox09Text;
             this.textBox10.Text = JM.TextBox10Text;
         }
 
@@ -666,12 +630,18 @@ namespace SharpGLWinformsApplication1
         private void button15_Click(object sender, EventArgs e)
         {
             InputYingliZhi inputYinglizhi = new InputYingliZhi();
+            inputYinglizhi.TransfEvent += ChangeQiangdu;
             inputYinglizhi.ShowDialog();
         }
-
+        void ChangeQiangdu(String value)
+        {
+            YLZ.Text = Convert.ToDouble(value).ToString("0.000");
+        }
         private void button16_Click(object sender, EventArgs e)
         {
-
+            InputYingliZhi inputYinglizhi = new InputYingliZhi();
+            inputYinglizhi.TransfEvent += ChangeQiangdu;
+            inputYinglizhi.ShowDialog();
         }
 
     }

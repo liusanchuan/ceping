@@ -343,6 +343,7 @@
             this.dataGridView1.RowTemplate.Height = 23;
             this.dataGridView1.Size = new System.Drawing.Size(216, 95);
             this.dataGridView1.TabIndex = 15;
+            this.dataGridView1.Visible = false;
             // 
             // skinButton1
             // 

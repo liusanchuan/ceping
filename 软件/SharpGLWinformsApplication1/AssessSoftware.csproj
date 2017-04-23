@@ -73,6 +73,7 @@
     <Reference Include="System" />
     <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
     <Reference Include="System.Design" />
     <Reference Include="System.Numerics" />
     <Reference Include="System.Windows.Forms.DataVisualization" />
@@ -98,6 +99,12 @@
     </Compile>
     <Compile Include="CanshuTU.Designer.cs">
       <DependentUpon>CanshuTU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dataclass1Singlon.cs" />
+    <Compile Include="DataClasses1.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
     </Compile>
     <Compile Include="FileFormat.cs">
       <SubType>Form</SubType>
@@ -208,6 +215,9 @@
     <EmbeddedResource Include="CanshuTU.resx">
       <DependentUpon>CanshuTU.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="DataClasses1.dbml.layout">
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </None>
     <EmbeddedResource Include="FileFormat.resx">
       <DependentUpon>FileFormat.cs</DependentUpon>
     </EmbeddedResource>
@@ -252,6 +262,11 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="DataClasses1.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses1.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
@@ -327,6 +342,9 @@
     </Content>
     <None Include="Resources\CengCi.jpg" />
     <Content Include="Resources\liewnekuozhan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

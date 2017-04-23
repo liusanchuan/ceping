@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="PlatformFlawBase" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-4FA6J2C\SQLEXPRESS;Initial Catalog=PlatformFlawBase;Integrated Security=True" SettingsObjectName="SharpGLWinformsApplication1.Properties.Settings" SettingsPropertyName="PlatformFlawBaseConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.StressInput" Member="StressInput">
+    <Type Name="StressInput">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="kc11" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="kc12" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="kc13" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="kc14" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="kc21" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="kc22" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="kc23" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="kc24" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="kc31" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="kc32" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="kc4" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="kc51" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="kc52" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
